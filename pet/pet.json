@@ -1,0 +1,7 @@
+{
+  "id": "ping",
+  "displayName": "Ping",
+  "description": "A calm copper-and-teal plush otter sentinel that checks signals, keeps a tiny status beacon, and waits for approval before acting.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

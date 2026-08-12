@@ -1,0 +1,973 @@
+{
+  "ok": true,
+  "frames_root": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17917,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 230
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17837,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17696,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 206
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17546,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17702,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17696,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 239
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19097,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19510,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 346
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18510,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18936,
+          "bbox": [
+            5,
+            6,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18903,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19201,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 323
+        },
+        {
+          "index": 6,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17216,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        },
+        {
+          "index": 7,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17512,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18960,
+          "bbox": [
+            12,
+            5,
+            179,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 298
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19659,
+          "bbox": [
+            5,
+            9,
+            187,
+            199
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 363
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18510,
+          "bbox": [
+            8,
+            5,
+            184,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 316
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18936,
+          "bbox": [
+            5,
+            6,
+            187,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18903,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 295
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19201,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 323
+        },
+        {
+          "index": 6,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17216,
+          "bbox": [
+            5,
+            13,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 259
+        },
+        {
+          "index": 7,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17512,
+          "bbox": [
+            14,
+            5,
+            177,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 282
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17365,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18131,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 191
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18091,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 175
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17422,
+          "bbox": [
+            31,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 144
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21604,
+          "bbox": [
+            9,
+            5,
+            182,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 257
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17958,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16828,
+          "bbox": [
+            26,
+            5,
+            165,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 215
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20671,
+          "bbox": [
+            17,
+            5,
+            174,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 241
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20942,
+          "bbox": [
+            15,
+            5,
+            176,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 224
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17997,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 372
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19374,
+          "bbox": [
+            36,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 340
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22450,
+          "bbox": [
+            9,
+            5,
+            183,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 385
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17322,
+          "bbox": [
+            32,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 312
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22922,
+          "bbox": [
+            20,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 378
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19290,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 370
+        },
+        {
+          "index": 6,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12900,
+          "bbox": [
+            5,
+            57,
+            187,
+            150
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 246
+        },
+        {
+          "index": 7,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20493,
+          "bbox": [
+            13,
+            5,
+            178,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 358
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17112,
+          "bbox": [
+            29,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16866,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 159
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18663,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 182
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18437,
+          "bbox": [
+            28,
+            5,
+            163,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 181
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18672,
+          "bbox": [
+            19,
+            5,
+            172,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16903,
+          "bbox": [
+            34,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18241,
+          "bbox": [
+            27,
+            5,
+            164,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 240
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17438,
+          "bbox": [
+            25,
+            5,
+            166,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17681,
+          "bbox": [
+            25,
+            5,
+            167,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 233
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17047,
+          "bbox": [
+            30,
+            5,
+            162,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17991,
+          "bbox": [
+            23,
+            5,
+            168,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 266
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19487,
+          "bbox": [
+            12,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 232
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17276,
+          "bbox": [
+            35,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 186
+        },
+        {
+          "index": 1,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16809,
+          "bbox": [
+            37,
+            5,
+            154,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 197
+        },
+        {
+          "index": 2,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16479,
+          "bbox": [
+            37,
+            5,
+            155,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        },
+        {
+          "index": 3,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17471,
+          "bbox": [
+            30,
+            5,
+            161,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 223
+        },
+        {
+          "index": 4,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16138,
+          "bbox": [
+            31,
+            5,
+            160,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 209
+        },
+        {
+          "index": 5,
+          "file": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17496,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 190
+        }
+      ]
+    }
+  ]
+}

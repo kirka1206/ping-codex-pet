@@ -1,0 +1,17 @@
+{
+  "ok": true,
+  "decision": "accept",
+  "severity": "minor",
+  "reviewed_by": "parent",
+  "failed_checks": [
+    "Intermediate blind vertical ambiguity on vertical-4 and vertical-7",
+    "Continuity metric outliers at 022.5->045, 157.5->180, and 337.5->000"
+  ],
+  "evidence": [
+    "Both hard cardinal blind pairs passed with strict majority.",
+    "Labeled normal-size direction QA confirms all cardinal axes and intended intermediate quadrants.",
+    "Independent final visual QA found no visible snap, wrong quadrant, broken attachment, identity drift, or semantic reversal.",
+    "Transparent rows at y=201 are separated-foot negative space, not holes through a filled body."
+  ],
+  "notes": "Warnings are retained as review evidence; no major failure was overridden."
+}

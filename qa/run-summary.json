@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run",
+  "spritesheet": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/final/spritesheet-extended.webp",
+  "validation": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/final/validation-extended.json",
+  "chroma_despill": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/look-directions.png",
+  "direction_semantics": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/direction-blind-validation.json",
+  "blind_review_resolution": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/blind-review-resolution.json",
+  "continuity": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/look-continuity.json",
+  "review": "/Users/kir/Documents/Codex/2026-08-12/hatch-pet-users-kir-codex-skills/work/ping-pet-run/qa/review.json",
+  "package": "/Users/kir/.codex/pets/ping"
+}
