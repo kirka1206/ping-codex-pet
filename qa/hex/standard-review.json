@@ -1,0 +1,15 @@
+{
+  "ok": true,
+  "pet": "Hex",
+  "atlas": "final/v6/spritesheet-extended-clean.png",
+  "reviewer": "independent visual QA worker",
+  "verdict": "pass",
+  "identity": "pass",
+  "look_directions": "pass",
+  "standard_states": "pass",
+  "jump_baseline": "pass",
+  "clipping_or_detached_artifacts": "none observed",
+  "warnings": [
+    "337.5 to 000 is the largest visual occupancy change in the look loop, but remains acceptable at native 192x208 cell size"
+  ]
+}

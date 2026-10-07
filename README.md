@@ -1,13 +1,15 @@
-# Ping Codex Pet
+# Ping Codex Pets
 
 Ping is a Codex-compatible v2 animated pet: a calm copper-and-teal otter sentinel with a small amber beacon.
+Hex is a Codex-compatible v2 animated pet: an evil swamp-witch honey badger with a mossy mantle, amber talisman, and poisonous green magic.
 
 The repository keeps the installable pet package and the QA evidence together so the artifact can be restored or moved without depending on the generation workspace.
 
-## Package
+## Packages
 
-- `pet/pet.json` — Codex pet manifest.
-- `pet/spritesheet.webp` — animated sprite atlas.
+- `pet/pet.json` and `pet/spritesheet.webp` — the original Ping package.
+- `pet/hex/pet.json` and `pet/hex/spritesheet.webp` — the Hex package.
+- `pet/hex/spritesheet.png` — the exact transparent PNG source used for upload and validation.
 
 ## QA evidence
 
@@ -20,7 +22,8 @@ The repository keeps the installable pet package and the QA evidence together so
 - `qa/standard-review.json` — standard review results.
 - `qa/contact-sheet-extended.png` and `qa/look-directions.png` — visual QA sheets.
 - `qa/run-summary.json` — generation and validation run summary.
+- `qa/hex/` — Hex validation reports, direction sheets, and motion previews.
 
 ## Restore locally
 
-Copy the contents of `pet/` into the Codex pets directory as `ping` (usually `$CODEX_HOME/pets/ping`, or `~/.codex/pets/ping` when `CODEX_HOME` is unset).
+Copy the contents of `pet/` into the Codex pets directory as `ping` (usually `$CODEX_HOME/pets/ping`, or `~/.codex/pets/ping` when `CODEX_HOME` is unset). Copy `pet/hex/` as the separate `hex` pet directory.

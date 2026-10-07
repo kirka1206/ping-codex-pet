@@ -1,0 +1,1405 @@
+{
+  "ok": true,
+  "frames": [
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/idle/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/idle/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/idle/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/idle/01.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/idle/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/idle/02.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/idle/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/idle/03.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/idle/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/idle/04.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/idle/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/idle/05.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/01.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/02.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/03.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/04.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/05.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/06.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/06.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-right/07.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-right/07.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/01.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/02.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/03.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/04.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/05.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/06.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/06.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running-left/07.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running-left/07.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waving/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waving/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waving/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waving/01.png",
+      "columns": [
+        21,
+        22,
+        23,
+        25
+      ],
+      "groups": [
+        [
+          21,
+          22,
+          23
+        ],
+        [
+          25
+        ]
+      ],
+      "expanded_groups": [
+        [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ],
+        [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      ],
+      "removed_pixels": 834
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waving/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waving/02.png",
+      "columns": [
+        24,
+        26,
+        27,
+        29
+      ],
+      "groups": [
+        [
+          24
+        ],
+        [
+          26,
+          27
+        ],
+        [
+          29
+        ]
+      ],
+      "expanded_groups": [
+        [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      ],
+      "removed_pixels": 835
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waving/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waving/03.png",
+      "columns": [
+        26,
+        28,
+        29,
+        31
+      ],
+      "groups": [
+        [
+          26
+        ],
+        [
+          28,
+          29
+        ],
+        [
+          31
+        ]
+      ],
+      "expanded_groups": [
+        [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      ],
+      "removed_pixels": 814
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/jumping/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/jumping/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/jumping/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/jumping/01.png",
+      "columns": [
+        50,
+        51,
+        53
+      ],
+      "groups": [
+        [
+          50,
+          51
+        ],
+        [
+          53
+        ]
+      ],
+      "expanded_groups": [
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        [
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      ],
+      "removed_pixels": 725
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/jumping/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/jumping/02.png",
+      "columns": [
+        51,
+        52,
+        54
+      ],
+      "groups": [
+        [
+          51,
+          52
+        ],
+        [
+          54
+        ]
+      ],
+      "expanded_groups": [
+        [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57
+        ]
+      ],
+      "removed_pixels": 711
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/jumping/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/jumping/03.png",
+      "columns": [
+        50,
+        51,
+        52,
+        54
+      ],
+      "groups": [
+        [
+          50,
+          51,
+          52
+        ],
+        [
+          54
+        ]
+      ],
+      "expanded_groups": [
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ],
+        [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57
+        ]
+      ],
+      "removed_pixels": 886
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/jumping/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/jumping/04.png",
+      "columns": [
+        50,
+        52,
+        53,
+        54,
+        56
+      ],
+      "groups": [
+        [
+          50
+        ],
+        [
+          52,
+          53,
+          54
+        ],
+        [
+          56
+        ]
+      ],
+      "expanded_groups": [
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ],
+        [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57
+        ],
+        [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      ],
+      "removed_pixels": 1049
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/01.png",
+      "columns": [
+        58,
+        59,
+        61
+      ],
+      "groups": [
+        [
+          58,
+          59
+        ],
+        [
+          61
+        ]
+      ],
+      "expanded_groups": [
+        [
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        [
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64
+        ]
+      ],
+      "removed_pixels": 788
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/02.png",
+      "columns": [
+        59,
+        60,
+        62
+      ],
+      "groups": [
+        [
+          59,
+          60
+        ],
+        [
+          62
+        ]
+      ],
+      "expanded_groups": [
+        [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      ],
+      "removed_pixels": 794
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/03.png",
+      "columns": [
+        58,
+        59,
+        60,
+        62
+      ],
+      "groups": [
+        [
+          58,
+          59,
+          60
+        ],
+        [
+          62
+        ]
+      ],
+      "expanded_groups": [
+        [
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      ],
+      "removed_pixels": 982
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/04.png",
+      "columns": [
+        59,
+        60,
+        62
+      ],
+      "groups": [
+        [
+          59,
+          60
+        ],
+        [
+          62
+        ]
+      ],
+      "expanded_groups": [
+        [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      ],
+      "removed_pixels": 783
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/05.png",
+      "columns": [
+        59,
+        61,
+        62,
+        64
+      ],
+      "groups": [
+        [
+          59
+        ],
+        [
+          61,
+          62
+        ],
+        [
+          64
+        ]
+      ],
+      "expanded_groups": [
+        [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        [
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ],
+        [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67
+        ]
+      ],
+      "removed_pixels": 1038
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/06.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/06.png",
+      "columns": [
+        59,
+        60,
+        62,
+        63,
+        65
+      ],
+      "groups": [
+        [
+          59,
+          60
+        ],
+        [
+          62,
+          63
+        ],
+        [
+          65
+        ]
+      ],
+      "expanded_groups": [
+        [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ],
+        [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ]
+      ],
+      "removed_pixels": 1217
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/failed/07.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/failed/07.png",
+      "columns": [
+        59,
+        60,
+        62
+      ],
+      "groups": [
+        [
+          59,
+          60
+        ],
+        [
+          62
+        ]
+      ],
+      "expanded_groups": [
+        [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ],
+        [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      ],
+      "removed_pixels": 830
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waiting/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waiting/00.png",
+      "columns": [
+        45,
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          45
+        ],
+        [
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ],
+        [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 944
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waiting/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waiting/01.png",
+      "columns": [
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 781
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waiting/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waiting/02.png",
+      "columns": [
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 780
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waiting/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waiting/03.png",
+      "columns": [
+        46,
+        48,
+        49,
+        51
+      ],
+      "groups": [
+        [
+          46
+        ],
+        [
+          48,
+          49
+        ],
+        [
+          51
+        ]
+      ],
+      "expanded_groups": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ],
+        [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ],
+        [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      ],
+      "removed_pixels": 940
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waiting/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waiting/04.png",
+      "columns": [
+        46,
+        47,
+        49
+      ],
+      "groups": [
+        [
+          46,
+          47
+        ],
+        [
+          49
+        ]
+      ],
+      "expanded_groups": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ],
+        [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      ],
+      "removed_pixels": 763
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/waiting/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/waiting/05.png",
+      "columns": [
+        46,
+        47,
+        49,
+        143,
+        145,
+        146
+      ],
+      "groups": [
+        [
+          46,
+          47
+        ],
+        [
+          49
+        ],
+        [
+          143
+        ],
+        [
+          145,
+          146
+        ]
+      ],
+      "expanded_groups": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ],
+        [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ],
+        [
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146
+        ],
+        [
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149
+        ]
+      ],
+      "removed_pixels": 1354
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running/01.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running/02.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running/03.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running/04.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/running/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/running/05.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/review/00.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/review/00.png",
+      "columns": [],
+      "groups": [],
+      "expanded_groups": [],
+      "removed_pixels": 0
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/review/01.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/review/01.png",
+      "columns": [
+        46,
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          46,
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 1043
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/review/02.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/review/02.png",
+      "columns": [
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 869
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/review/03.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/review/03.png",
+      "columns": [
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 868
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/review/04.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/review/04.png",
+      "columns": [
+        46,
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          46,
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 1041
+    },
+    {
+      "source": "work/hex-pet-run/qa/final-frames-v3/review/05.png",
+      "output": "work/hex-pet-run/qa/atlas-frames-v6/review/05.png",
+      "columns": [
+        46,
+        47,
+        48,
+        50
+      ],
+      "groups": [
+        [
+          46,
+          47,
+          48
+        ],
+        [
+          50
+        ]
+      ],
+      "expanded_groups": [
+        [
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ],
+        [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      ],
+      "removed_pixels": 1067
+    }
+  ]
+}
